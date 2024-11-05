@@ -12,6 +12,8 @@ website:
         href: https://github.com/harrelfe/
       - icon: twitter
         href: https://twitter.com/f2harrell
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/f2harrell.bsky.social
       - icon: envelope
         href: mailto:fh@fharrell.com
   twitter-card:
